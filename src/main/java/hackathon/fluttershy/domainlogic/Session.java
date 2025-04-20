@@ -126,11 +126,11 @@ public class Session {
 
         String monthDescription = "";
         if (citizensLeft == 0) {
-            citizensLeft = 5;
+            citizensLeft = 10;
             monthsPassed++;
             monthDescription = "Наступил новый месяц. " + getMonthsPassedDescription();
 
-            if (random.nextInt(0, (int) Math.ceil(20.0/monthsPassed)) == 0) {
+            if (random.nextInt(0, (int) Math.ceil(5.0/monthsPassed)) == 0) {
                 currentEvent = random.nextInt(Event.MIN_EVENT_VALUE, Event.MAX_EVENT_VALUE);
                 monthDescription += "\n" + getEventDescription();
             }
