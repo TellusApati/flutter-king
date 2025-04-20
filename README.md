@@ -1,3 +1,5 @@
+![fluttershy team logo](https://github.com/TellusApati/flutter-king/blob/main/fluttershy-team-logo.png?raw=true)
+
 Добро пожаловать в репозиторий навыка команды **«Флаттершай»** для кейса «Разработка навыка для Яндекс Алисы – создание интерактивной аудио игры» от компании CloudCom!
 
 Представляем навык для Алисы — **«Трепещущий Король»**  или **«Flutter King»**.
@@ -38,3 +40,4 @@
 - *spring.datasource.username*
 - *spring.datasource.password*
 
+Советуем использовать голос - Эрмил
