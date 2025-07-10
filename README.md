@@ -41,3 +41,8 @@
 - *spring.datasource.password*
 
 Советуем использовать голос - Эрмил
+
+
+
+## Пост окончание проекта
+![Ссылка на презентацию защиты данного проекта](https://docs.google.com/presentation/d/1XJoFJ3QFU2o6ida1y_qClNoeKmLQ8ynSOUyzWwu4V1g/edit?usp=sharing)
